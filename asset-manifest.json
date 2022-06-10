@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93a0497a.css",
+    "main.js": "/static/js/main.ee7c6805.js",
+    "static/media/mastercard.png": "/static/media/mastercard.3074f66625e010fbcb96.png",
+    "index.html": "/index.html",
+    "static/media/plus.svg": "/static/media/plus.385d29044c8d62533810c088dde1c6ed.svg",
+    "main.93a0497a.css.map": "/static/css/main.93a0497a.css.map",
+    "main.ee7c6805.js.map": "/static/js/main.ee7c6805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.ee7c6805.js"
+  ]
+}
